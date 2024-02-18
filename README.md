@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-task3-blog-card-preview.vercel.app/)
 
 ## My process
 
@@ -30,6 +30,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Oksadeebila](https://www.your-site.com)
+- Frontend Mentor - [@oksadeebila](https://www.frontendmentor.io/profile/Oksadeebila)
+- Twitter - [@odebila](https://www.twitter.com/odebi)
