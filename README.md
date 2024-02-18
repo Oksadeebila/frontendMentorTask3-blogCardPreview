@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-task3-blog-card-preview.vercel.app/)
+- Solution URL: [solution in github](https://github.com/Oksadeebila/frontendMentorTask3-blogCardPreview.git)
+- Live Site URL: [frontend-mentor-task3-blog-card-preview](https://frontend-mentor-task3-blog-card-preview.vercel.app/)
 
 ## My process
 
